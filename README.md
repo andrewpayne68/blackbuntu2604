@@ -28,12 +28,12 @@ cd blackbuntu2604
 tar -xf blackbuntu-2604.tar.xz
 ```
 ```
-cd blackbuntu-2604 &&./build.sh
+./build.sh
 ```
 
 OR run the all-in-one bash command
 ```
-sudo apt-get -y install git && git clone https://github.com/andrewpayne68/blackbuntu2604.git && cd blackbuntu2604 && tar -xf blackbuntu-2604.tar.xz && cd blackbuntu-2604 && ./build.sh
+sudo apt-get -y install git && git clone https://github.com/andrewpayne68/blackbuntu2604.git && cd blackbuntu2604 && tar -xf blackbuntu-2604.tar.xz && ./build.sh
 ```
 \
 \
