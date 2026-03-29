@@ -1,7 +1,7 @@
 <p align="center"><a href="https://ibb.co/DzZFK8v"><img src="https://i.ibb.co/FmF170y/BLACKBUNTU-LOGO-2.png" alt="BLACKBUNTU-LOGO-2" border="0" width="50%" height="50%"></a></p>
 
 
-This is a fully Darkest Orange GTK Gnome Flat Remix themed installation build script to convert Ubuntu 24.04 LTS installation to Blackbuntu 24.04. It is recommended to execute on a clean installation.  
+This is a fully Darkest Orange GTK Gnome Flat Remix themed installation build script to convert Ubuntu 26.04 LTS installation to Blackbuntu 26.04. It is recommended to execute on a clean installation.  
 
 Download the latest Ubuntu ISO from here: ` https://ubuntu.com/download/desktop `
 
@@ -17,21 +17,21 @@ Installation Script
 sudo apt-get -y install git
 ```
 ```
-git clone https://github.com/andrewpayne68/blackbuntu2404.git
+git clone https://github.com/andrewpayne68/blackbuntu2604.git
 ```
 ```
 cd blackbuntu2404
 ```
 ```
-tar -xf blackbuntu-2404.tar.xz
+tar -xf blackbuntu-2604.tar.xz
 ```
 ```
-cd blackbuntu-2404 &&./build.sh
+cd blackbuntu-2604 &&./build.sh
 ```
 
 OR run the all-in-one bash command
 ```
-sudo apt-get -y install git && git clone https://github.com/andrewpayne68/blackbuntu2404.git && cd blackbuntu2404 && tar -xf blackbuntu-2404.tar.xz && cd blackbuntu-2404 && ./build.sh
+sudo apt-get -y install git && git clone https://github.com/andrewpayne68/blackbuntu2604.git && cd blackbuntu2404 && tar -xf blackbuntu-2604.tar.xz && cd blackbuntu-2604 && ./build.sh
 ```
 \
 \
