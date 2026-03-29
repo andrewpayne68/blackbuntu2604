@@ -9,7 +9,7 @@ _Note this script and theme will not work correctly on older builds of ubuntu, s
 
 Includes Thorium Browser, Brave Browser, Tweaks, GDM Settings, Gedit (Matrix Themed) and Variety Wallpaper Changer, as well as many other open source OSINT and PenTest applications.
 
-BONUS - Includes https://c-nergy.be/blog/?p=20304 Ubuntu- Change-Gdm-Background script Version 4.0 which has been modded to support Gnome 50/ Ubuntu 26.04 and will run at the end of the build.sh script. Standalone included in repo files.
+BONUS - Includes https://c-nergy.be/blog/?p=20304 "Ubuntu- Change-Gdm-Background script Version 4.0" which has been modded to support Gnome 50/ Ubuntu 26.04 and will run at the end of the build.sh script. Standalone included in repo files.
 
 
 Installation Script
