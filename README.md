@@ -1,7 +1,7 @@
 <p align="center"><a href="https://ibb.co/DzZFK8v"><img src="https://i.ibb.co/FmF170y/BLACKBUNTU-LOGO-2.png" alt="BLACKBUNTU-LOGO-2" border="0" width="50%" height="50%"></a></p>
 
 
-This is a fully Darkest Orange GTK Gnome Flat Remix themed installation build script to convert Ubuntu 26.04 LTS installation to Blackbuntu 26.04. It is recommended to execute on a clean installation.  
+This is a fully Flat Remix Darkest (Orange preferred but you can select other colours via Gnome 50 Settings in Theme) themed installation build script to convert Ubuntu 26.04 LTS installation to Blackbuntu 26.04. It is recommended to execute on a clean installation.  
 
 Download the latest Ubuntu ISO from here: ` https://ubuntu.com/download/desktop `
 
