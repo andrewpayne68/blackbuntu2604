@@ -10,14 +10,6 @@ Includes Thorium Browser, Brave Browser, Tweaks, GDM Settings, Gedit (Matrix The
 BONUS - Includes https://c-nergy.be/blog/?p=20304 "Ubuntu- Change-Gdm-Background script Version 4.0" which has been modded to support Gnome 50/ Ubuntu 26.04 and will run at the end of the build.sh script. Standalone included in repo files.
 
 
-Transparent Top Panel (for Gnome 50): After installation - obtain and activate the following Extension to enable transparent top panel: https://github.com/lamarios/gnome-shell-extension-transparent-top-bar
-
-Set GDM accent color to match GNOME Shell: After adding these lines to /etc/gdm3/greeter.dconf-defaults:
-
-    [org/gnome/desktop/interface]
-    accent-color='orange'
-
-
 Installation Script
 -
 
@@ -55,6 +47,20 @@ Screenshot
 -
 \
 ![image-1](https://github.com/andrewpayne68/blackbuntu2404/blob/main/Blackbuntu-desktop.png)
+
+
+Transparent Top Panel (for Gnome 50): After installation - obtain and activate the following Extension to enable transparent top panel: https://github.com/lamarios/gnome-shell-extension-transparent-top-bar
+
+Set GDM accent color to match GNOME Shell: After adding these lines to /etc/gdm3/greeter.dconf-defaults:
+
+    [org/gnome/desktop/interface]
+    accent-color='orange'
+
+
+Set kitty as the default Terminal app in Gnome 50/Ubuntu 26.04 LTS in a single command line:
+
+    sudo ln -s ~/.local/kitty.app/bin/kitty /usr/bin/kitty~ && gsettings set org.gnome.desktop.default-applications.terminal exec kitty
+
 
 
 
