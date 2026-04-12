@@ -51,7 +51,7 @@ Screenshot
 \
 \
 \
-Additional Items for Gnome 50 and Login
+Additional Items/Fixes for Gnome 50, Login and Setting Default Terminal app
 -
 
 Transparent Top Panel (for Gnome 50): After installation - obtain and activate the following Extension to enable transparent top panel: https://github.com/lamarios/gnome-shell-extension-transparent-top-bar
