@@ -14,6 +14,11 @@ BONUS - Includes https://c-nergy.be/blog/?p=20304 "Ubuntu- Change-Gdm-Background
 
 Transparent Top Panel (for Gnome 50): After installation - obtain and activate the following Extension to enable transparent top panel: https://github.com/lamarios/gnome-shell-extension-transparent-top-bar
 
+Set GDM accent color to match GNOME Shell: After adding these lines to /etc/gdm3/greeter.dconf-defaults:
+
+    [org/gnome/desktop/interface]
+    accent-color='orange'
+
 
 Installation Script
 -
