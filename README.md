@@ -11,9 +11,9 @@ Includes Thorium Browser, Brave Browser, Tweaks, GDM Settings, Gedit (Matrix The
 
 BONUS - Includes https://c-nergy.be/blog/?p=20304 "Ubuntu- Change-Gdm-Background script Version 4.0" which has been modded to support Gnome 50/ Ubuntu 26.04 and will run at the end of the build.sh script. Standalone included in repo files.
 
-Transparent Top Panel (for Gnome 50)
--
-After installation - obtain and activate the following Extension to enable transparent top panel: https://github.com/lamarios/gnome-shell-extension-transparent-top-bar
+
+Transparent Top Panel (for Gnome 50): After installation - obtain and activate the following Extension to enable transparent top panel: https://github.com/lamarios/gnome-shell-extension-transparent-top-bar
+
 
 Installation Script
 -
