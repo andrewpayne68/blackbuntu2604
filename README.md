@@ -5,8 +5,6 @@ This is a fully Flat Remix Darkest (Orange preferred but you can select other co
 
 Download the latest Ubuntu ISO from here: ` https://ubuntu.com/download/desktop `
 
-_Note this script and theme will not work correctly on older builds of ubuntu, such as 22.04 LTS, check this repo for one for 22.04 - https://github.com/andrewpayne68/BLACKBUNTU.2204_
-
 Includes Thorium Browser, Brave Browser, Tweaks, GDM Settings, Gedit (Matrix Themed) and Variety Wallpaper Changer, as well as many other open source OSINT and PenTest applications.
 
 BONUS - Includes https://c-nergy.be/blog/?p=20304 "Ubuntu- Change-Gdm-Background script Version 4.0" which has been modded to support Gnome 50/ Ubuntu 26.04 and will run at the end of the build.sh script. Standalone included in repo files.
