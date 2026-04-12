@@ -61,7 +61,7 @@ Set GDM accent color to match GNOME Shell: After adding these lines to /etc/gdm3
 
     [org/gnome/desktop/interface]
     accent-color='orange'
-\
+
 
 Set kitty as the default Terminal app in Gnome 50/Ubuntu 26.04 LTS in a single command line:
 
