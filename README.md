@@ -56,7 +56,8 @@ Additional Items/Fixes for Gnome 50, Login and Setting Default Terminal app
 
 Transparent Top Panel (for Gnome 50): After installation - obtain and activate the following Extension to enable transparent top panel: https://github.com/lamarios/gnome-shell-extension-transparent-top-bar
 \
-
+GDM
+-
 Set GDM accent color to match GNOME Shell (orange) add these lines to /etc/gdm3/greeter.dconf-defaults:
 
     [org/gnome/desktop/interface]
@@ -65,13 +66,14 @@ Set GDM accent color to match GNOME Shell (orange) add these lines to /etc/gdm3/
 Set GDM accent color to match GNOME Shell (orange) using single Command Line:
 
     echo "[org/gnome/desktop/interface]" | sudo tee -a /etc/gdm3/greeter.dconf-defaults && echo "accent-color='orange'" | sudo tee -a /etc/gdm3/greeter.dconf-defaults
-
+Terminal/Kitty
+-
 Set kitty as the default Terminal app in Gnome 50/Ubuntu 26.04 LTS in a single command line:
 
     sudo ln -s ~/.local/kitty.app/bin/kitty /usr/bin/kitty~ && gsettings set org.gnome.desktop.default-applications.terminal exec kitty
 
 User Extensions Installed:
-
+-
 ![image-1](https://github.com/andrewpayne68/blackbuntu2604/blob/main/user-extensions-2604.png)
 
 
