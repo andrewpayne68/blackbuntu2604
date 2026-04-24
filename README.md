@@ -46,7 +46,7 @@ sudo nala update && sudo nala upgrade -y
 Screenshot
 -
 \
-![image-1](https://github.com/andrewpayne68/blackbuntu2404/blob/main/blackbuntu-2604-desktop.png)
+![image-1](https://github.com/andrewpayne68/blackbuntu2604/blob/main/blackbuntu-2604-desktop.png)
 
 \
 \
