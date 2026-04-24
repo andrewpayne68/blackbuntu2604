@@ -96,8 +96,27 @@ To get things back just run:
 ```
 gsettings set org.gnome.shell.extensions.dash-to-dock intellihide true
 ```
+\
+Install Flatpak
+-
 
+To install Flatpak on Ubuntu 18.10 (Cosmic Cuttlefish) or later, open the Terminal app and run:
 
+    sudo apt install flatpak
+
+Install GNOME Software Flatpak plugin
+
+The GNOME Software plugin makes it possible to install apps without needing the command line. To install, run:
+
+    sudo apt install gnome-software-plugin-flatpak
+
+Note: Ubuntu distributes GNOME Software as a Snap in versions 20.04 to 23.04, and replaced it with App Center in 23.10 and newer—neither of which support installing Flatpak apps. Installing the Flatpak plugin will also install a deb version of GNOME Software, resulting in two "Software" apps being installed at the same time on Ubuntu 20.04 to 23.04, and a single new "Software" app on Ubuntu 23.10 and newer.
+
+Add the Flathub repository
+
+Flathub is the best place to get Flatpak apps. To enable it, download and install the  or run:
+
+    flatpak remote-add --if-not-exists flathub https://dl.flathub.org/repo/flathub.flatpakrepo
 
 
 
