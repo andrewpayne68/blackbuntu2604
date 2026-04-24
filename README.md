@@ -82,6 +82,21 @@ User Extensions Installed:
 -
 ![image-1](https://github.com/andrewpayne68/blackbuntu2604/blob/main/user-extensions-2604.png)
 
+\
+Ubuntu Dock: add true autohide option to default session
+-
+
+```
+gsettings set org.gnome.shell.extensions.dash-to-dock intellihide false
+```
+
+After that, turning on autohide option in System Settings will activate `true autohide` instead of the default intellihide.
+
+To get things back just run:
+```
+gsettings set org.gnome.shell.extensions.dash-to-dock intellihide true
+```
+
 
 
 
