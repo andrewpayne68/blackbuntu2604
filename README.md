@@ -80,7 +80,7 @@ Set kitty as the default Terminal app in Gnome 50/Ubuntu 26.04 LTS in a single c
 \
 User Extensions Installed:
 -
-![image-1](https://github.com/andrewpayne68/blackbuntu2604/blob/main/user-extensions-2604.png)
+![image-1](https://github.com/andrewpayne68/blackbuntu2604/blob/main/user-extensions.png)
 
 \
 Ubuntu Dock: add true autohide option to default session
